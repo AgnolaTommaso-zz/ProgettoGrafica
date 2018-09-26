@@ -2,6 +2,8 @@
 #include <iostream>
 using namespace std;
 
+//Ciao tommy
+
 Sommatore::Sommatore(){
 
 }
